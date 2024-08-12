@@ -15,7 +15,7 @@
   src: url('https://cdn.jsdelivr.net/gh/yihui/cron/fonts/bkai00mp-yihui.woff2') format('woff2');
 }
 .post blockquote, .newsletter blockquote, .home blockquote {
-  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, 'Kai SC', 'Kai TC', serif;
+  font-family: Palatino, 'Palatino Linotype', 'Palatino LT STD', 'Latin Modern Roman', 'Source Han Serif CN', serif;
 }
 blockquote {
   font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, 'Kai SC', 'Kai TC', serif;
@@ -25,4 +25,7 @@ code {
 }
 pre, code {
   font-size: .95em;
+}
+.cn em, .cn .title {
+  font-style: normal;
 }
