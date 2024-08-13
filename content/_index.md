@@ -23,8 +23,8 @@ title: Home
 > 
 > 研究与大模型有关的一切，但不是研究一切大模型。
 
-## Essay
+## Essay(excerpt)
 
 * [冬鸟从林间挑起一绺白纱](/posts/2024/01/137/)  
-* [备用站二](http://shuyu.great-site.net/)  
-* [备用站三](https://shuyuwx.github.io/DocB/)
+* [看完《涉过愤怒的海》](/posts/2023/11/7/)  
+* 未完待续
